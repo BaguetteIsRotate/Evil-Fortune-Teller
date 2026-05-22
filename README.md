@@ -21,3 +21,4 @@ AHHHHHHH THERE ARE TOO MANY NOTES MY ROOM IS FLOODING: By default, this program 
 
 MY ROOM IS EXPLODING FROM ALL THESE NOTES SAVE ME AHHHHHHH: This program currently only runs on macOS and Linux computers. I will try to add Windows support in the future. 
 
+FINAL NOTE I HOPE: This program is not sentient. 
