@@ -1,5 +1,5 @@
 # Evil-Fortune-Teller
-It is I, a fortune teller that has an abundance of nonsensical fortunes. And I can rickroll you if you want too many fortunes. What more could you want, human scum? Do not type the speed of light in meters per second into the config file!!! 
+It is I, a fortune teller that has an abundance of surrealist fortunes (plus a few normal ones). And I can rickroll you if you want more than 5 fortunes per day in order to increase your patience. What more could you want, human scum? Do not type the speed of light in meters per second into the config file!!! 
 
 ---
 Example Output:
