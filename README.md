@@ -17,7 +17,7 @@ MORE NOTES: The author of this program does not take any responsibility for user
 
 WHY ARE THERE SO MANY NOTES: To run this pseudo-fortune telling apparatus, open these programs on an IDE such as Visual Studio Code and run FortuneTeller.java and then FortuneTelerRunner.java.
 
-AHHHHHHH THERE ARE TOO MANY NOTES MY ROOM IS FLOODING: By default, this program will run rickrolls on Google Chrome. if you have a different browser, please change "Google Chrome" in FortuneTellerPunishment.sh to your browser's name. Also, to prevent the program from running rickrolls, type 299792458 without any spaces on the first line of config.txt after deleting the " "  which I put on the first line to prevent errors. Don't ask. I'm too lazy to write more code for handling errors. Deal with it. Note that 2299792458 is the speed of light in meters per second. 
+AHHHHHHH THERE ARE TOO MANY NOTES MY ROOM IS FLOODING: By default, this program will run rickrolls on Google Chrome. if you have a different browser, please change "Google Chrome" in FortuneTellerPunishment.sh to your browser's name. Also, to prevent the program from running rickrolls, type 299792458 without any spaces on the first line of config.txt after deleting the " "  which I put on the first line to prevent errors. Don't ask. I'm too lazy to write more code for handling errors. Deal with it. Note that 2299792458 is the speed of light in meters per second. If you want to change it back, put a random string in the first line.
 
 MY ROOM IS EXPLODING FROM ALL THESE NOTES SAVE ME AHHHHHHH: This program currently only runs on macOS and Linux computers. I will try to add Windows support in the future. 
 
