@@ -64,7 +64,7 @@ public class FortuneTeller{
                     pb.start();
                     return;
                 }else{
-                    System.out.println("Make a file at /Users/lordkat/FortuneTellerPunishment.sh NOW.");
+                    System.out.println("Make a file at FortuneTellerPunishment.sh NOW.");
                     return;
                 }
             }else{
